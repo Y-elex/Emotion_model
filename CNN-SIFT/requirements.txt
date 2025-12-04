@@ -1,0 +1,9 @@
+torch
+torchvision
+opencv-contrib-python
+scikit-learn
+numpy
+joblib
+pandas
+tqdm
+openpyxl   # pandas 保存为 excel
